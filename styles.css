@@ -1,0 +1,30 @@
+ body {
+  background-color: darkgray;
+     font-family: arial;
+ }
+h1 {
+    text-align: center;
+  color: Black;
+    font-size: 50px
+}
+ li{
+  text-align: center;
+  list-style-position: inside; /* center number*/
+     margin: 10px;
+     font-size:25px;
+ }
+p {
+    text-align:center;
+    font-size:25px;
+  color: darkred;
+    margin: 5px;
+}
+div{
+    text-align: center;
+}
+img {
+    vertical-align: middle;
+
+    width: 200px;
+    height: 200px;
+}
